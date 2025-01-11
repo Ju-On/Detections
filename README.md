@@ -1,2 +1,2 @@
 # Detections.md
-Detections
+redacted
